@@ -1,0 +1,15 @@
+{
+  "name": "discord-cafe-bot",
+  "version": "1.0.0",
+  "description": "Discord Cafe Yonetim ve Guvenlik Botu",
+  "main": "ticket_bot.js",
+  "scripts": {
+    "start": "node ticket_bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
